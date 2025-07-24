@@ -14,7 +14,9 @@ It includes simplified tools and process documentation relevant to lending workf
   Overview of the end-to-end securities lending process  
   *(Borrow → Settle → Collateral → Recall → Return → Reconcile)*
 
-- [daily_recon_tracker.xlsx](./daily_recon_tracker.xlsx)
+- [Daily Reconciliation Tracker.xlsx](Daily%20Reconciliation%20Tracker.xlsx)  
+  A sample tracker for monitoring trades, borrow/return activity, and identifying breaks
+
   A sample tracker for monitoring trades, borrow/return activity, and identifying breaks
 
 - [Exception Log.xlsx](Exception%20Log.xlsx)  
