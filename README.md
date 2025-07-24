@@ -8,7 +8,9 @@ It includes simplified tools and process documentation relevant to lending workf
 
 ## 📁 Contents
 
-- [securities_lending_lifecycle.pdf](./securities_lending_lifecycle.pdf)  
+- [Securities Lending Lifecycle – Overview.pdf](Securities%20Lending%20Lifecycle%20–%20Overview.pdf)  
+  Overview of the end-to-end securities lending process (Borrow → Settle → Collateral → Recall → Return → Reconcile)
+
   Overview of the end-to-end securities lending process  
   *(Borrow → Settle → Collateral → Recall → Return → Reconcile)*
 
