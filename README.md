@@ -8,14 +8,16 @@ It includes simplified tools and process documentation relevant to lending workf
 
 ## 📁 Contents
 
-- `securities_lending_lifecycle.pdf`  
+- [securities_lending_lifecycle.pdf](./securities_lending_lifecycle.pdf)  
   Overview of the end-to-end securities lending process  
   *(Borrow → Settle → Collateral → Recall → Return → Reconcile)*
 
-- `daily_recon_tracker.xlsx` *(coming soon)*  
+- [daily_recon_tracker.xlsx](./daily_recon_tracker.xlsx)
   A sample tracker for monitoring trades, borrow/return activity, and identifying breaks
 
-- `exception_log_template.xlsx` *(coming soon)*  
+- [exception_log_template.xlsx](./exception_log_template.xlsx)  
+  Template to log and manage operational exceptions (fails, recalls, settlement issues)
+ 
   Template to log and manage operational exceptions (fails, recalls, settlement issues)
 
 - `automation_opportunities.md` *(coming soon)*  
