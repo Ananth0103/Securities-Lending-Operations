@@ -1,8 +1,6 @@
 # Securities Lending Operations – Portfolio
 
-This repository presents a hands-on portfolio project built specifically for the **Securities Lending Operations Analyst** role at **Alpaca**.
-
-It includes simplified tools and process documentation relevant to lending workflows, reconciliation, exception handling, in a brokerage operations environment.
+This repository contains a hands-on project built to demonstrate practical knowledge in custody operations. It includes tools and documentation for handling asset transfers, trade settlements, reconciliations, and exceptions in a post-trade operations setting.
 
 ---
 
